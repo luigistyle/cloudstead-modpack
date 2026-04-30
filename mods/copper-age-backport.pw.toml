@@ -1,0 +1,8 @@
+name = "Copper Age Backport"
+filename = "copperagebackport-neoforge-1.21.1-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/copperagebackport-neoforge-1.21.1-0.1.5.jar"
+hash-format = "sha256"
+hash = "0acc33ce2819de92b8350fe84a34f77195547666a2ca1a4af5bd35c7155ac1bf"
