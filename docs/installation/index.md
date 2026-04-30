@@ -23,7 +23,7 @@
 
 ### Downloading the Modpack
 
-[Download the modpack here](https://github.com/MichailiK/serenity-modpack/releases/download/self-updating/Serenity.1.20.1.zip).
+[Download the modpack here](https://github.com/luigistyle/cloudstead-modpack/releases/download/self-updating/Cloudstead.SMP.zip).
 
 1. Drag and drop the zip file into Prism Launcher
 2. Hit OK at the bottom right.
