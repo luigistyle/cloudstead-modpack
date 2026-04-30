@@ -1,58 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "cffa87a225fcba49117277dd56944c90de391bbdf3e07f593c21868f0536172e"
-
-[[files]]
-file = "LICENSE"
-hash = "e77d505d7e3e51d79cb944359ab3b7de94c69fc9de092a82083bce680616fb0f"
-
-[[files]]
-file = "README.md"
-hash = "5f256eb012affd436311f14def6d14cb56909e848b95adda2fcede3c0058ce1b"
-
-[[files]]
-file = "docs/installation/index.md"
-hash = "5b5d9ccd5e41c4f56e71231fa4535d07376d8db7efbd23e47547100d4f4c9280"
-
-[[files]]
-file = "docs/installation/prism_add_account.png"
-hash = "a7c1ba437785af8d2841555a2b0d2e52500f37f298a27318eef5c7cdfa11881f"
-
-[[files]]
-file = "docs/installation/prism_download_button.png"
-hash = "b8f442cd31df62862adc245572087668fed1249daaf4fad61221922bc7f57f73"
-
-[[files]]
-file = "docs/installation/prism_instance_edit.png"
-hash = "509b1bdc706b12b6c3a5cbcbeb66bd74a235d8f2a1166efb77d9cd1524032f92"
-
-[[files]]
-file = "docs/installation/prism_instance_java_download.png"
-hash = "fe8685e6d22238ed968466541b91e9be687b50607e55b9d476bb4c0195263e64"
-
-[[files]]
-file = "docs/installation/prism_instance_java_selection.png"
-hash = "f188aa806e8c5b482a4fc67aa6e66558f9dff50be1732cbd61665ca5c506b5b7"
-
-[[files]]
-file = "docs/installation/prism_instance_settings.png"
-hash = "702195d2288409f658cf75ca13ee216317b02b6011867d90c6030a96a781589e"
-
-[[files]]
-file = "docs/installation/prism_manage_accounts.png"
-hash = "7f194d4bc32c07c22c5b5a2ae1172e986c1a5d4db7e23dbef3622942440aa4dd"
-
-[[files]]
-file = "gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore.txt"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -1121,10 +1069,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
-
-[[files]]
-file = "packwizignore.txt"
-hash = "1150828ec680a8fd26c2049425e1857213e95c9c4edeb58022ee4c7394b25354"
 
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
