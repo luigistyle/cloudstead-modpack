@@ -1,0 +1,13 @@
+name = "Map4Image"
+filename = "map4image-0.2.1+1.20.5-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/CJ1jTVkS/versions/XheWjFKy/map4image-0.2.1%2B1.20.5-1.21.1.jar"
+hash-format = "sha512"
+hash = "8b557b291ee89b50833d283bde7e75e7c96527b5b201b0b8991ffdcfb25bac6df1d71ee937a68ae126b11a427ad791f3c00dcc2c235a25425544d975bfb4588b"
+
+[update]
+[update.modrinth]
+mod-id = "CJ1jTVkS"
+version = "XheWjFKy"
