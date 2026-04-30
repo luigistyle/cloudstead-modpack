@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "cffa87a225fcba49117277dd56944c90de391bbdf3e07f593c21868f0536172e"
+
+[[files]]
 file = "LICENSE"
 hash = "e77d505d7e3e51d79cb944359ab3b7de94c69fc9de092a82083bce680616fb0f"
 
@@ -10,7 +14,7 @@ hash = "5f256eb012affd436311f14def6d14cb56909e848b95adda2fcede3c0058ce1b"
 
 [[files]]
 file = "docs/installation/index.md"
-hash = "84863bd466fb87acee2b5e14e921b8e260984b5f163d35d77eab1f784df8c39b"
+hash = "5b5d9ccd5e41c4f56e71231fa4535d07376d8db7efbd23e47547100d4f4c9280"
 
 [[files]]
 file = "docs/installation/prism_add_account.png"
@@ -1120,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "packwizignore.txt"
-hash = "1d5f7ffd8f2b617c5d4e53337ab67b25f358b0d5a476037b6a285ff766ffbdca"
+hash = "1150828ec680a8fd26c2049425e1857213e95c9c4edeb58022ee4c7394b25354"
 
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
