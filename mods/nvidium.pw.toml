@@ -1,0 +1,8 @@
+name = "Nvidium"
+filename = "nvidium-0.4.1-beta10-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/nvidium-0.4.1-beta10-1.21-1.21.1.jar"
+hash-format = "sha256"
+hash = "2fe9953c2be0528b54e9453d36040862124ca2307b63f876658c1e558bf6ba68"
