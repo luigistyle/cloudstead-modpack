@@ -1,0 +1,8 @@
+name = "VoxyServer"
+filename = "VoxyServer-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/VoxyServer-1.1.5.jar"
+hash-format = "sha256"
+hash = "e3feeba4935ef8acf3b5afb22293bcbfad3b079fe99c2a18753112e6a3775cc1"

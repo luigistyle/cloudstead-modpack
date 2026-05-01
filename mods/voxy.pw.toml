@@ -1,0 +1,8 @@
+name = "voxy"
+filename = "voxy-0.2.14-alpha-75ad50a9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/voxy-0.2.14-alpha-75ad50a9.jar"
+hash-format = "sha256"
+hash = "62ea785cb1f25efdae42aaa485afbebc2ab49e9669fa257fcf60f8c6913659d7"

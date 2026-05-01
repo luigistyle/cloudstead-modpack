@@ -971,6 +971,16 @@ hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "2a3fa7cdab22c7703707cdc937d3165c250d9e609c66d7494d3ce2dd910ab333"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "c37c5f8672fe58db5420116ec1f4650d9b6feade23ba6e1fffb69267487efe84"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
 metafile = true
