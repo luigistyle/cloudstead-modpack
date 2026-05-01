@@ -126,6 +126,11 @@ hash = "68773936910f8c6a6c38daf2899279cd8fc37b687b2dea380c0b5ab58738c532"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "be9b84747fbddabebaaa182dfc3a4bb3f0b9d8c5a5473b6fd8fe92776458832e"
+metafile = true
+
+[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "bc792ba30b8b96a4451720488348b375d5eccdcd6d83f7527f960a1ea552f251"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
@@ -348,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/disccord.pw.toml"
 hash = "ddc0ff8754f0027cb69d23fbf7f5ccedb4ff6c9ff8750b104e057cc2ed63eee6"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
@@ -671,6 +686,11 @@ hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "527dad35ae35e0141ce3a00fae8301d0ab6a5fa4adf66d6266bd984ddb378b18"
 metafile = true
@@ -976,11 +996,6 @@ hash = "2a3fa7cdab22c7703707cdc937d3165c250d9e609c66d7494d3ce2dd910ab333"
 metafile = true
 
 [[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "c37c5f8672fe58db5420116ec1f4650d9b6feade23ba6e1fffb69267487efe84"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
 metafile = true
@@ -1093,14 +1108,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gentler-weather-sounds.pw.toml"
-hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
-metafile = true
-
-[[files]]
-file = "resourcepacks/refined-storage-recreated.pw.toml"
-hash = "fa48e21477d4eee6f28644ca57f280ff8f0d9ad1bf45fbdcd29e73a5895e4c30"
 metafile = true
