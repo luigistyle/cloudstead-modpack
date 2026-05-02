@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "43892cc3de98cc02623831ff8448ce437400cc31852f7063481671e66686e9ba"
+hash = "6dfc53c7d985c3b3613e08845e39b50d0d841ff514df3ec3930e0b49b4c762ec"
 metafile = true
 
 [[files]]
@@ -852,17 +852,17 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "38d8d170b037bea147ebd0c12fa6ced5102c3b229e90e492fc7bda8b07b19b6c"
+hash = "b3642a3ffe97146f608687a711b753ef84bfa876fcf2be5415c057877677158b"
 metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "82087f294e992978c7416068779c17e29e46d545c1c63885a5aa8c3371fe884d"
+hash = "ac00ddc5c3528db796cc939c91cc9d03d9f04e55474b68b0e4f094dc6d00fbc3"
 metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "415c34027c175ac5aac4434cab94571f997644ecf6b758f3739e51909dec71df"
+hash = "5eed555d96dcdf16f9aa088d4e2656f0254e422a2bdb0422b20fde7c05c34df5"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "00c2f94fd2a469c880b73633a14cb6b654554ebc26610a7a8eac65a6673772d2"
+hash = "d34ef6a8ae4fa661524b3d93467004430e66656ba762843d915aaca6a0c23f63"
 metafile = true
 
 [[files]]
