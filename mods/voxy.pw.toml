@@ -1,6 +1,6 @@
 name = "voxy"
 filename = "voxy-0.2.14-alpha-75ad50a9.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/voxy-0.2.14-alpha-75ad50a9.jar"

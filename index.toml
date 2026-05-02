@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "527dad35ae35e0141ce3a00fae8301d0ab6a5fa4adf66d6266bd984ddb378b18"
+hash = "292d3a5279306c0e13445924f282c9c81f898da74264c2128f37a0ad7af7b8c1"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "2a3fa7cdab22c7703707cdc937d3165c250d9e609c66d7494d3ce2dd910ab333"
+hash = "a3278446ed8458ae3a165ed01edbc5cc1bc09df44cf62fa4526849efb0ed82e6"
 metafile = true
 
 [[files]]

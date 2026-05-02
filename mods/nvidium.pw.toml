@@ -1,6 +1,6 @@
 name = "Nvidium"
 filename = "nvidium-0.4.1-beta10-1.21-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/nvidium-0.4.1-beta10-1.21-1.21.1.jar"
