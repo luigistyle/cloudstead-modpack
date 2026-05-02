@@ -226,11 +226,6 @@ hash = "03f7698bcfb321394d841be9123421897365b7c68c6bcf19a8b406a8d0b47902"
 metafile = true
 
 [[files]]
-file = "mods/copycat-sails-and-compat.pw.toml"
-hash = "6dd700c1074c340770d6aa4a603b059cad06d5cb9afe6d82efa10fa7a7dacb38"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
