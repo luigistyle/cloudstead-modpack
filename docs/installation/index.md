@@ -23,17 +23,17 @@
 
 ### Downloading the Modpack
 
-[Download the modpack here](https://github.com/luigistyle/cloudstead-modpack/releases/download/self-updating/Cloudstead.SMP.zip).
+[Download the modpack here](https://dl.modpack.luigistyle.com/Cloudstead%20SMP.zip).
 
 1. Drag and drop the zip file into Prism Launcher
 2. Hit OK at the bottom right.
 
 ### Downloading & Setting Java version
 
-1. Right click the modpack and hit "Edit..."\
+1. Left click the modpack and hit "Edit" on the menu that appears on the right side of the launcher.\
    ![Screenshot of Prism Launcher, with the Edit button in the context menu highlighted](./prism_instance_edit.png)
 
-2. Go to Settings -> Java, and tick both the "Java Installation" and "Skip Java compatibility checks" boxes. 
+2. Go to Settings -> Java, and tick both the "Java Installation" and "Skip Java compatibility checks" boxes.\
    Now press the "Open Java Downloader" button.\
    ![Screenshot of the Prism Launcher instance settings](./prism_instance_settings.png)
 
