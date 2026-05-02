@@ -81,11 +81,6 @@ hash = "45f7a72d3b963282b21664f6c2743f2fa7c8f1a00ce220953fe11b4462e205e7"
 metafile = true
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "176f5dc52a0d2338047c2a7fcbf3122be0d8cbcc28f83dbf64fe22d2cc676eda"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "8d7b54614f4aa33c4d89e11ed0ec434095e66c80c9557b4e91311ee684227ade"
 metafile = true
