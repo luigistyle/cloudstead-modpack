@@ -1,0 +1,8 @@
+name = "Copycat Sails"
+filename = "copycat_aeronautics_sails-0.1.17.jar"
+side = "both"
+
+[download]
+url = "https://github.com/luigistyle/cloudstead-modpack/raw/refs/heads/main/external_mods/copycat_aeronautics_sails-0.1.17.jar"
+hash-format = "sha256"
+hash = "3a2a4fdfc37ed7297023dc005a52cd66d7d6ab49ed1f8405b2684aadd31921aa"
