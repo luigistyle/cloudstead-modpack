@@ -156,6 +156,11 @@ hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "fee0250fe6953809dfc61bee342bdf8622e5d683125a917b348fd6812a9d1f18"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -878,11 +883,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
-metafile = true
-
-[[files]]
-file = "mods/seamlesscrafting.pw.toml"
-hash = "fca8dea45edb0efc0438cd65ce48baa6e018e8b46612618335f842af1fe4e22c"
 metafile = true
 
 [[files]]
