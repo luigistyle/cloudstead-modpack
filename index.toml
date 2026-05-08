@@ -450,6 +450,11 @@ hash = "41ddb2dfcf6b2d87bd52d0fb8dc9c8c3a7e3e83f9f1cbf9c495ab195333dfbd9"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "3be9ba31c40cd693608da0b927d51e3850e051afa52b2e7c4ef95271ae0c0b1c"
 metafile = true
