@@ -900,6 +900,11 @@ hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "432631916c08b3ccf6b9ad4e75adeda9d92dbc3938edb01fcdfdeefb7b20c200"
+metafile = true
+
+[[files]]
 file = "mods/petrols-parts.pw.toml"
 hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
