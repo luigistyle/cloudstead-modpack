@@ -555,6 +555,11 @@ hash = "a339950cdad3f609f186d3d7d359d20af02d1da8fa875c073116ab1b72069f93"
 metafile = true
 
 [[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "dbe30d148364164e29902e67d8f01bc31abfe82cdcdbe591f5fdbddd87d20bd8"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-betterend.pw.toml"
 hash = "dd43dd0a129211c0eede62c1b65d58bd171f0352aaf1b87a9129bf488c1d7c93"
 metafile = true
